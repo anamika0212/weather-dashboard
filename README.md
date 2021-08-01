@@ -26,5 +26,5 @@ Link to the application:
 
 
 Images of the site:
-![Empty State](assets/images/empty-state.png?raw=true "Empty State")
+![Empty State](assets/images/emptyState.png?raw=true "Empty State")
 ![Scheduled Meetings](assets/images/city-weather.png?raw=true "Selected city weather")
