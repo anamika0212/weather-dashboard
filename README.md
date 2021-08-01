@@ -27,4 +27,4 @@ https://anamika0212.github.io/weather-dashboard/index.html
 Images of the site:
 ![Empty State](assets/images/emptyState.png?raw=true "Empty State")
 ![Selected city state](assets/images/city-weather.png?raw=true "Selected city weather")
-![Multiple cities in local storage](assets/images/city-weather.png?raw=true "Selected cities in local storage")
+![Multiple cities in local storage](assets/images/cities-local-storage.png?raw=true "Selected cities in local storage")
