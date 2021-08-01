@@ -21,8 +21,7 @@ Built with
 References used: I used following sites for my reserach: google.com ,https://www.w3schools.com/, stackoverflow.com, class recording etc.
 
 Link to the application:
-
-
+https://anamika0212.github.io/weather-dashboard/index.html
 
 
 Images of the site:
