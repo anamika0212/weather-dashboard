@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
     <title>Weather Dashboard</title>
 </head>
 
@@ -14,7 +16,7 @@
     </header>
 
 
-<div class="container-fluid">
+<main class="container-fluid">
     <div class="row">
         <div class="col-12 col-md-3 p-2 search-column">
             <form class="border p-2" id="city-search-form">
@@ -34,12 +36,16 @@
             <div class = "row border" id = "five-day-forecast">
                 <h2 class= "col-12" id = "forecast"></h2>
                 <div class = "d-flex" id = "fiveday-container"></div>
+            </div>
         </div>
-    </div>
+        
 </div>
 
+</main>
 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script src="./assets/js/script.js"></script>
 </body>
 </html>
